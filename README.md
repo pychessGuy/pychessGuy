@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pychessGuy
+- 👋 Hi, I’m Maximilian (or @pychessGuy)
 - 👀 I’m interested in chess, python coding, website development and neural networks.
 - 🌱 I’m currently learning how to build neural networks with python.
 - 📫 How to reach me - just don't. Unless I know you.
